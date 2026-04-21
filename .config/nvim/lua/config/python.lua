@@ -1,1 +1,1 @@
-let g:loaded_python3_provider = 0
+vim.g.loaded_python3_provider = 0
